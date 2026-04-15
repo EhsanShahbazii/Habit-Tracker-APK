@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "A responsive, ultra-modern Habit & Addiction Tracker with Whoop-style neon aesthetic, local quotes, a GitHub-style grid, sharing engine, and Jetpack Glance widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
