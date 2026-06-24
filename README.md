@@ -8,7 +8,7 @@
 
 | Primary Interface & Card Designer | Theme Adaptability & Logging | Social Share Customizer |
 | --- | --- | --- |
-| ![Main UI](images/photo_1405-04-03 16.43.06.jpeg) | ![Themes and Logs](images/1405-04-03 16.45.22.jpg) | ![Share Layouts](images/1405-04-03 16.45.35.jpg) |
+| ![Main UI](images/photo_1405-04-03-16.43.06.jpeg) | ![Themes and Logs](images/1405-04-03-16.45.22.jpg) | ![Share Layouts](images/1405-04-03-16.45.35.jpg) |
 
 ---
 
